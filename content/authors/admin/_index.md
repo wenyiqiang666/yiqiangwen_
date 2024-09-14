@@ -40,10 +40,8 @@ education:
     date_start: 2021-09-01
     date_end: 2025-07-01
     summary: |
-      Core curriculum: Biochemistry, Cell& Molecular Biology, Microbiology, Histology,
-      Embryology, Genetics, Botany, Zoology, Physiology, Organic chemistry
-
       GPA: 3.64/4.0 (91/100)
+      Core curriculum: Biochemistry, Cell& Molecular Biology, Microbiology, Histology,Embryology, Genetics, Botany, Zoology, Physiology, Organic chemistry
 
   - area: Institute of Botany, Chinese Academy of Sciences (IB-CAS)
     institution: Joint-Training Program
