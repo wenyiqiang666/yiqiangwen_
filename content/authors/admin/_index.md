@@ -44,28 +44,13 @@ education:
       GPA: 3.64/4.0 (91/100)
 
   - area: Institute of Botany, Chinese Academy of Sciences (IB-CAS)
-    institution: program: Joint-Training Program
+    institution: Joint-Training Program
     date_start: 2022-07-01
     date_end: 2023-12-31
     summary: |
       State key laboratory of systematic and evolutionary botany
-      Supervisor Wenli Chen (Associate Researcher)
+      Supervisor: Wenli Chen (Associate Researcher)
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: 
     company_name: GenCoin
