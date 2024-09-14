@@ -1,34 +1,30 @@
 ---
 # Display name
-title: yiqiang wen
+title: Yiqiang Wen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Yiqiang
+last_name: Wen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Undergraduate researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Toronto,Canada
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'yiqiangwen@cau.edu.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,7 +36,7 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Bachelor of Agriculture in Aquaculture 
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
