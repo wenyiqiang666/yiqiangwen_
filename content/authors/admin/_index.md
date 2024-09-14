@@ -44,13 +44,12 @@ education:
       GPA: 3.64/4.0 (91/100)
 
   - area: Institute of Botany, Chinese Academy of Sciences (IB-CAS)
-    institution: 
-    program: Joint-Training Program
-    supervisor: Wenli Chen (Associate Researcher)
+    institution: program: Joint-Training Program
     date_start: 2022-07-01
     date_end: 2023-12-31
     summary: |
       State key laboratory of systematic and evolutionary botany
+      Supervisor: Wenli Chen (Associate Researcher)
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
