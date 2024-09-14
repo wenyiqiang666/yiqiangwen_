@@ -25,8 +25,9 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: research experience
+  - block: experience
     content:
+      title: Research Experience
       username: admin
     design:
       # Hugo date format
