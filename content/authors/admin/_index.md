@@ -35,8 +35,8 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: Bachelor of Agriculture in Aquaculture 
-    institution: Stanford University
+  - area: China Agricultural University
+    institution: 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -67,7 +67,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: 
     company_name: GenCoin
     company_url: ''
     company_logo: ''
