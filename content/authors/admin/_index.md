@@ -49,7 +49,7 @@ education:
     date_end: 2023-12-31
     summary: |
       State key laboratory of systematic and evolutionary botany
-      Supervisor: Wenli Chen (Associate Researcher)
+      Supervisor Wenli Chen (Associate Researcher)
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
