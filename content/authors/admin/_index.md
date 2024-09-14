@@ -65,6 +65,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    ![stomata.png](stomata.png)
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
