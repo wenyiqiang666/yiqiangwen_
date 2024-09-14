@@ -41,6 +41,7 @@ education:
     date_end: 2025-07-01
     summary: |
       GPA: 3.64/4.0 (91/100)
+    
       Core curriculum: Biochemistry, Cell& Molecular Biology, Microbiology, Histology,Embryology, Genetics, Botany, Zoology, Physiology, Organic chemistry
 
   - area: Institute of Botany, Chinese Academy of Sciences (IB-CAS)
@@ -49,6 +50,7 @@ education:
     date_end: 2023-12-31
     summary: |
       State key laboratory of systematic and evolutionary botany
+    
       Supervisor: Wenli Chen (Associate Researcher)
 
 work:
