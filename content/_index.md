@@ -38,6 +38,7 @@ sections:
   - block: internship
     content:
       title: Internship
+      username: admin
     
   - block: skills
     content:
