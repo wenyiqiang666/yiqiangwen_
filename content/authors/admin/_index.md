@@ -42,6 +42,7 @@ education:
     summary: |
       Core curriculum: Biochemistry, Cell& Molecular Biology, Microbiology, Histology,
       Embryology, Genetics, Botany, Zoology, Physiology, Organic chemistry
+
       GPA: 3.64/4.0 (91/100)
 
   - area: Institute of Botany, Chinese Academy of Sciences (IB-CAS)
