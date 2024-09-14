@@ -1,4 +1,3 @@
----
 title: Yiqiang Wen
 
 # Name pronunciation (optional)
