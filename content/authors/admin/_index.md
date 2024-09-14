@@ -89,6 +89,7 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer     
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
