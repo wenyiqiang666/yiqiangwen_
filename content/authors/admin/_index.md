@@ -164,4 +164,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Hello, everyone！My name is Yiqiang Wen. Currently, I’m doing research as a undergraduate researcher at University of Toronto in [the Mott Lab](http://www.themottlab.com/). My research pursuits primarily revolve around the realms of cellular and molecular biology, with a keen focus on elucidating the signaling pathways within the cell system. 
+My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
+
