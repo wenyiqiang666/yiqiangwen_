@@ -50,7 +50,7 @@ education:
     date_start: 2022-07-01
     date_end: 2023-12-31
     summary: |
-    State key laboratory of systematic and evolutionary botany
+      State key laboratory of systematic and evolutionary botany
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
