@@ -36,20 +36,20 @@ profiles:
 
 education:
   - area: China Agricultural University
-    institution: 
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Bachelor of Agriculture in Aquaculture 
+    date_start: 2021-09-01
+    date_end: 2025-07-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Core curriculum: Biochemistry, Cell& Molecular Biology, Microbiology, Histology, Embryology, Genetics, Botany, Zoology, Physiology, Organic chemistry
+      GPA: 3.64/4.0 (91/100)
+
+
+  - area: Institute of Botany, Chinese Academy of Sciences (IB-CAS)
+    institution: Joint-Training Program, Supervisor: Wenli Chen (Associate Researcher)
+    date_start: 2022-07-01
+    date_end: 2023-12-31
     summary: |
-      GPA: 3.8/4.0
+      State key laboratory of systematic and evolutionary botany
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
