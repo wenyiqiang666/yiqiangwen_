@@ -55,7 +55,7 @@ education:
 
 work:
   - position: Plant Cell Surface Receptor Function Research
-    company_name: University of Toronto, Mitacs scholarship
+    company_name: University of Toronto
       Supervisor: Adam Mott (Assistant Professor)
     company_url: ''
     company_logo: ''
