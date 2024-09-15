@@ -56,7 +56,6 @@ education:
 work:
   - position: Plant Cell Surface Receptor Function Research
     company_name: University of Toronto
-      Supervisor: Adam Mott (Assistant Professor)
     company_url: ''
     company_logo: ''
     date_start: 2024-07-12
