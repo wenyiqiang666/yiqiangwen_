@@ -60,7 +60,7 @@ work:
     company_logo: ''
     date_start: 2024-07-12
     date_end: 'present'
-    summary: |2-
+    summary: |
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
