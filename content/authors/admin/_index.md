@@ -54,31 +54,37 @@ education:
       Supervisor: Wenli Chen (Associate Researcher)
 
 work:
-  - position: 
-    company_name: GenCoin
+  - position: Plant Cell Surface Receptor Function Research
+    company_name: University of Toronto, Mitacs scholarship, Supervisor: Adam Mott (Assistant Professor)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-07-12
+    date_end: 'present'
     summary: |2-
-      Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      [stomata.png](authors/admin/stomata.png)
 
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Phylogenetic and systematic research about needle grasses (Poaceae: Pooideae: Stipeae) 
+    company_name: Chinese Academy of Sciences, Supervisor: Wenli Chen (Associate Researcher)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-10-01
+    date_end: present
     summary: |
-      Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer     
+  - position: Effects of replacing fishmeal with black soldier fly larvae meal on the growth characteristics, intestinal enzyme activity, nutrient deposition rate, and disease resistance of crucian carp
+    company_name: Chinese Academy of Sciences, Supervisor: Wenli Chen (Associate Researcher)
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-10-01
+    date_end: present
+    summary: |
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit     
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
