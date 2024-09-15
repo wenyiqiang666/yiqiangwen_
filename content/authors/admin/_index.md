@@ -67,7 +67,8 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
   - position: Phylogenetic and systematic research about needle grasses (Poaceae: Pooideae: Stipeae) 
-    company_name: Chinese Academy of Sciences, Supervisor: Wenli Chen (Associate Researcher)
+    company_name: Chinese Academy of Sciences
+      Supervisor: Wenli Chen (Associate Researcher)
     company_url: ''
     company_logo: ''
     date_start: 2023-10-01
