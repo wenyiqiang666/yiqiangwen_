@@ -59,7 +59,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-07-12
-    date_end: 'present'
+    date_end: 
     summary: |
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -70,7 +70,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-10-01
-    date_end: present
+    date_end: 
     summary: |
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
