@@ -61,6 +61,7 @@ work:
     date_start: 2024-07-12
     date_end: 
     summary: |
+      - Supervisor: [Adam Mott (Assistant Professor)
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
